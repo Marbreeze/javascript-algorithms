@@ -1,3 +1,5 @@
+// add resourses here
+
 # Hash Table
 
 In computing, a hash table (hash map) is a data 
