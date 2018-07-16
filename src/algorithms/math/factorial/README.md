@@ -30,3 +30,6 @@ than or equal to `n`. For example:
 ## References
 
 [Wikipedia](https://en.wikipedia.org/wiki/Factorial)
+
+
+In order not to do same calculations over and over, create a memoize function so that it returns a value if it has been calculated before. 
